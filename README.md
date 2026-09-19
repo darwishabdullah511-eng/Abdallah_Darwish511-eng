@@ -19,7 +19,7 @@ An HR analytics project built with Power BI to explore employee data and create 
 
 The project focuses on analyzing HR data and presenting useful metrics and insights through visualizations.
 
-**Tool:** Power BI
+**Tool:** Power BI(https://github.com/darwishabdullah511-eng/hr-analytics-power-bi)
 
 ---
 
@@ -29,7 +29,7 @@ An e-commerce data analysis project built with Excel.
 
 The project includes data cleaning, organizing data, Pivot Tables, analysis, KPIs, and dashboard creation to explore sales and business performance.
 
-**Tool:** Microsoft Excel
+**Tool:** Microsoft Excel(https://github.com/darwishabdullah511-eng/ecommerce-sales-analysis-excel)
 
 ## About Me
 
