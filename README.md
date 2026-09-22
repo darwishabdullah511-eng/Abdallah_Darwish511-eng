@@ -1,42 +1,40 @@
 # Hi, I'm Abdullah 👋
 
-I'm a Data Analysis learner based in Cairo, Egypt.
+I'm an aspiring Data Analyst based in Cairo, Egypt.
 
-I’m building practical projects to improve my skills in data cleaning, analysis, visualization, and reporting.
+I enjoy working with data, cleaning and organizing it, exploring patterns, and presenting findings through clear dashboards and reports.
 
-## Skills & Tools
+## Tools & Skills
 
-- Excel
-- Power BI
-- SQL
-- Python
+* Microsoft Excel
+* Power BI
+* SQL
+* Python
 
-## Projects
-
-### 📊 HR Analytics Dashboard — Power BI
-
-An HR analytics project built with Power BI to explore employee data and create an interactive dashboard.
-
-The project focuses on analyzing HR data and presenting useful metrics and insights through visualizations.
-
-**Tool:** Power BI(https://github.com/darwishabdullah511-eng/hr-analytics-power-bi)
-
----
+## Featured Projects
 
 ### 🛒 E-commerce Sales Analysis — Excel
 
-An e-commerce data analysis project built with Excel.
+An e-commerce analysis project built with Microsoft Excel.
 
-The project includes data cleaning, organizing data, Pivot Tables, analysis, KPIs, and dashboard creation to explore sales and business performance.
+The project covers data cleaning, data organization, Pivot Tables, KPIs, dashboard creation, and business analysis.
 
-**Tool:** Microsoft Excel(https://github.com/darwishabdullah511-eng/ecommerce-sales-analysis-excel)
+**Tools:** Excel, Pivot Tables, Excel Functions, Data Cleaning, Data Visualization
+
+### 📊 HR Analytics Dashboard — Power BI
+
+An HR analytics dashboard created with Microsoft Power BI.
+
+The project focuses on analyzing HR data and presenting key metrics through an interactive dashboard.
+
+**Tools:** Power BI, Power Query, DAX, Data Modeling, Data Visualization
+
+## Currently Learning
+
+I'm currently expanding my skills in SQL and Python for Data Analysis while continuing to build practical projects.
 
 ## About Me
 
-I enjoy working with data and turning raw data into clear information and useful insights.
-
-I'm currently expanding my skills in SQL and Python while continuing to build practical data analysis projects.
-
-## Contact
+I'm building my portfolio through hands-on projects and using GitHub to document my work and progress in Data Analysis.
 
 📍 Cairo, Egypt
